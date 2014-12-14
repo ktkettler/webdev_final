@@ -1,4 +1,43 @@
-body {
-	font-family: 'Oswald';
+/*Global*/
+nav {
+	font-family: 'Crimson Text';
 	letter-spacing: 2px;
+}
+p {
+	padding: 0px 0px 25px 0px;
+	color: grey;
+	font-family: 'Crimson Text'
+}
+h2 {
+	padding-bottom: 20px;
+	color: grey;
+	font-family: 'Crimson Text'
+}
+h6 {
+	font-family: 'Crimson Text';
+	font-size: .9em;
+	color: grey;
+	line-height: 0.6em;
+}
+footer {
+	display: block;
+	margin: auto 0px;
+	text-align: center;
+	background: silver;
+	padding: 5px 0px;
+}
+/*IDs*/
+#cover {
+	background-image: url(../img/homeHero.jpg);
+	background-size: cover; 
+	width: 100%;
+	height: 700px;
+	display: block;
+}
+#menuCover {
+	background-image: url(../img/menuHero.jpg);
+	background-size: cover; 
+	width: 100%;
+	height: 700px;
+	display: block;
 }

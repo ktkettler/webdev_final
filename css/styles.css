@@ -51,3 +51,22 @@ footer {
 	height: 500px;
 	display: block;
 }
+#aboutCover {
+	background-image: url(../img/aboutHero.jpg);
+	background-size: cover; 
+	width: 100%;
+	height: 700px;
+	display: block;
+}
+#vaultCover {
+	background-image: url(../img/vaultHero.jpg);
+	background-size: cover; 
+	width: 100%;
+	height: 700px;
+	display: block;
+}
+#vault {
+	background: #414141;
+	width: 100%;
+	height: 300px;
+}

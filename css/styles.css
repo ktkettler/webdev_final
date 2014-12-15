@@ -25,6 +25,13 @@ footer {
 	background: silver;
 	padding: 5px 0px;
 }
+/*Classes*/
+.locationCover {
+	background-size: cover; 
+	width: 100%;
+	height: 100px;
+	display: block;
+}
 /*IDs*/
 #cover {
 	background-image: url(../img/homeHero.jpg);
@@ -38,12 +45,6 @@ footer {
 	background-size: cover; 
 	width: 100%;
 	height: 700px;
-	display: block;
-}
-#locationCover {
-	background-size: cover; 
-	width: 100%;
-	height: 100px;
 	display: block;
 }
 #mapBox {

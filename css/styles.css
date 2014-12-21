@@ -42,6 +42,9 @@ footer {
 	display: block;
 	text-align: center;
 }
+.logo {
+	letter-spacing: 2px;
+}
 /*IDs*/
 #cover {
 	background-image: url(../img/homeHero.jpg);
